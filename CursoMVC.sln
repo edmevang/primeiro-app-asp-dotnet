@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{CAD8B44D-7935-4D77-83BC-01317C80AACA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{C4C3914A-3366-412D-8B5E-1F2C6AAA63F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoTest", "CursoTest\CursoTest.csproj", "{C501128C-2487-4BC1-8D34-6E1BF9207ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD8B44D-7935-4D77-83BC-01317C80AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD8B44D-7935-4D77-83BC-01317C80AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD8B44D-7935-4D77-83BC-01317C80AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD8B44D-7935-4D77-83BC-01317C80AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C3914A-3366-412D-8B5E-1F2C6AAA63F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C3914A-3366-412D-8B5E-1F2C6AAA63F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C3914A-3366-412D-8B5E-1F2C6AAA63F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C3914A-3366-412D-8B5E-1F2C6AAA63F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C501128C-2487-4BC1-8D34-6E1BF9207ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C501128C-2487-4BC1-8D34-6E1BF9207ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C501128C-2487-4BC1-8D34-6E1BF9207ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C501128C-2487-4BC1-8D34-6E1BF9207ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C98C0F0-6CBF-44FF-ADBE-7B98C10BAD80}
+	EndGlobalSection
+EndGlobal
